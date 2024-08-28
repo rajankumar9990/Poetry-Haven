@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.main {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.button-group {
+    margin: 20px 0;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    border-top: 1px solid #ddd;
+}
